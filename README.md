@@ -14,7 +14,7 @@
  
 <br>
  
-### Para conteúdos sobre programação me segue ai!
+### Curiosidades, Profissionais e Pessoais... me segue ai!
  
 <div> 
   <a href="https://www.youtube.com/Dev-Gonser" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
